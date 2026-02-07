@@ -1,0 +1,29 @@
+✅ Task 1 — Health Check API (Very Easy)
+🎯 Goal
+
+Create a backend API that confirms the server is alive.
+
+🔧 Features
+
+GET /api/health
+
+Returns JSON with app name + timestamp
+
+📁 Folder Structure
+HealthCheckApi/
+│── Controllers/
+│   └── HealthController.cs
+│── Program.cs
+│── appsettings.json
+
+🧠 You Learn
+
+Minimal hosting model
+
+Controller setup
+
+Routing
+
+JSON responses
+
+Environment config
